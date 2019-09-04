@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234734555466",
+    "firebase_url": "https://agendador-master.firebaseio.com",
+    "project_id": "agendador-master",
+    "storage_bucket": "agendador-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234734555466:android:3e70c2fbe88907e9",
+        "android_client_info": {
+          "package_name": "com.projeto.maskoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234734555466-88l70t5relhknhfquq2sbr4rbv3ls50d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projeto.maskoti",
+            "certificate_hash": "1cd464796836b6724897bc3f88d55fb715636a05"
+          }
+        },
+        {
+          "client_id": "234734555466-itktbth15qkm622i2p7m2nh31hi6ms11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs7n9w_hn3_BrpsGa2-l1XuZdPy56EbgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234734555466-itktbth15qkm622i2p7m2nh31hi6ms11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234734555466-be2qknugoj0ged108mk5vogkf5tnq3fp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.minimal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
